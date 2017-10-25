@@ -1,0 +1,15 @@
+osmc
+https://osmc.tv/
+necessario instalar o transmission e samba
+
+sonarr
+https://discourse.osmc.tv/t/how-to-install-sonarr/36470
+
+radarr
+https://discourse.osmc.tv/t/how-to-install-radarr/36473
+
+flexget
+https://flexget.com/InstallWizard/Linux
+
+depois criar um sh com todos os comandos de instalação desses addons
+para então trabalhar numa integração do flexget com todos os outros sistemas
